@@ -1,0 +1,10 @@
+Sırasıyla terminalde bu komutlar çalıştırılmalıdır.
+1- php artisan db:create orderautomation
+2- php artisan migrate
+3- php artisan optimize
+4- php artisan serve
+Örnek veriler migrate aşamasında tablolar oluşturulurken
+oluşturulur. Küçük bir proje olduğu için seeders veya
+factories kullanılmamıştır.
+Varsayılan e posta adresi : admin@localhost.com
+Varsayılan şifre          : password
