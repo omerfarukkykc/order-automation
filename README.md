@@ -1,6 +1,6 @@
 ## Hızlı Kurlum
 Sırasıyla terminalde bu komutlar çalıştırılmalıdır.<br>
-- php artisan db:create sales-automation<br>
+- php artisan db:create orderautomation<br>
 - php artisan migrate<br>
 - php artisan optimize<br>
 - php artisan serve<br>
