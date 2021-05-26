@@ -1,8 +1,9 @@
 Sırasıyla terminalde bu komutlar çalıştırılmalıdır.
-1- php artisan db:create orderautomation
-2- php artisan migrate
-3- php artisan optimize
-4- php artisan serve
+1- composer install
+2- php artisan db:create orderautomation
+3- php artisan migrate
+4- php artisan optimize
+5- php artisan serve
 Örnek veriler migrate aşamasında tablolar oluşturulurken
 oluşturulur. Küçük bir proje olduğu için seeders veya
 factories kullanılmamıştır.

@@ -1,5 +1,6 @@
 ## Hızlı Kurlum
 Sırasıyla terminalde bu komutlar çalıştırılmalıdır.<br>
+- composer install<br>
 - php artisan db:create orderautomation<br>
 - php artisan migrate<br>
 - php artisan optimize<br>
